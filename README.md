@@ -43,23 +43,6 @@ To become a **Junior Front-End Developer** by building impactful real-world proj
 
 ---
 
-<!-- Projects -->
-## 🚀 Featured Projects
-
-### 🌍 [Community Energy Tracker](https://github.com/yourusername/community-energy-tracker)
-A web app that helps local communities monitor and reduce electricity consumption through intuitive visuals and smart alerts.
-
-> Built with HTML, CSS, JavaScript
-
----
-
-### 🏡 [Smart Home Dashboard](https://github.com/yourusername/smart-home-dashboard)
-An interactive front-end interface to visualize smart device statuses and control lights, fans, and sensors.
-
-> Built with HTML, CSS, JavaScript (and Bootstrap)
-
----
-
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
 
